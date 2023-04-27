@@ -1,0 +1,14 @@
+:root{
+    --color-light-50: #f8fafc;
+
+    --color-dark-50:#797984;
+    --color-dark-100: #312d37;
+    --color-dark-900:#000;
+
+    --color-puple-50: #7c3aed;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+}
